@@ -1,0 +1,4 @@
+Contraseña: "Pene" -> NO es válida. Faltan: Debe tener al menos 8 caracteres., Debe contener al menos un número., Debe contener al menos dos letras mayúsculas., Debe contener al menos un carácter especial.
+Contraseña: "GArcia29-" -> Es válida.
+Contraseña: "VAllarino201_" -> Es válida.
+Contraseña: "Alo" -> NO es válida. Faltan: Debe tener al menos 8 caracteres., Debe contener al menos un número., Debe contener al menos dos letras mayúsculas., Debe contener al menos tres letras minúsculas., Debe contener al menos un carácter especial.
